@@ -1,6 +1,6 @@
 # Context-engineering-experiment
 
-# Context-engineering-experiment
+
 
 <table>
   <thead>
@@ -68,3 +68,22 @@
     </tr>
   </tbody>
 </table>
+
+
+# ¿Cuál fue tu hipótesis?
+# ¿Cuál experimento produjo el menor resultado y porque? 
+# ¿Qué errores aparecieron en A y no en C?
+# ¿Qué información del repositorio fue más útil?
+# ¿Qué aportó SPEC.md?
+# ¿Qué función tuvo AGENTS.md?
+# ¿Más contexto significa necesariamente mejor contexto?
+# ¿Qué información fue redundante?
+# ¿Qué intervención humana fue necesaria?
+# ¿Qué cambiarías en SPEC.md y AGENTS.md?
+# ¿Qué aprendiste sobre la responsabilidad del desarrollador al usar agentes?
+
+
+# ¿por qué un desarrollador que utiliza agentes de código necesita aprender Context Engineering y no solamente mejores prompts?
+
+
+
